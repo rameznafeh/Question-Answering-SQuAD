@@ -2,7 +2,7 @@
 University project I did consisting of training a BERT model on the SQuAD dataset for the task of Question Answering
 
 
-USAGE: compute_answers.py takes 1 file of questions in the SQuAD form and outputs a file with answers.
+```USAGE: compute_answers.py takes 1 file of questions in the SQuAD form and outputs a file with answers.```
 
 
 ## 1. Executive Summary
